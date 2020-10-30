@@ -42,7 +42,7 @@ We have to back them up ourselves, so we do just have like a thing that backs th
 
 **Jerod Santo:** Oh... That one will get you.
 
-**Marc Beinder:** And I could not find it. So I don't remember changing anything in JavaScript. Well, apparently I did... What I ended up doing - my code was so jumbled, and the folder structure was just a nightmare... Because you know, \[unintelligible 00:07:22.04\] What I ended up doing is I completely redid the entire application's file structure in about three days, and then was able to completely fix it. And halfway through that, I found "Oh, sweet. A semicolon was missing. I can just keep going..." and I'm like "Nah, I can move so much faster by just pushing through this refactoring of how the folders work."
+**Marc Beinder:** And I could not find it. So I don't remember changing anything in JavaScript. Well, apparently I did... What I ended up doing - my code was so jumbled, and the folder structure was just a nightmare... Because you know, you're doing this work and that work. What I ended up doing is I completely redid the entire application's file structure in about three days, and then was able to completely fix it. And halfway through that, I found "Oh, sweet. A semicolon was missing. I can just keep going..." and I'm like "Nah, I can move so much faster by just pushing through this refactoring of how the folders work."
 
 **Jerod Santo:** Right. Well, I would advocate for baby steps... That's one of my principles in development - never do a big refactor over three days without slowing down and ensuring things work each step of the way. So take a small step, ensure it works. Take another small step, ensure it works.
 
